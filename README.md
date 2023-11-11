@@ -1,1 +1,1 @@
-# skyline-tech
+# This table consists of 6 heads and data for each. It’s shows a comprehensive score sheet for a cohort and everybody in it. We have scores for pass and for fail, the pass is shown with a green color and fail with a red color. Thier full name, courses and passcode is also captured.
